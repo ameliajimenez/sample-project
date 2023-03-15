@@ -1,17 +1,16 @@
-# sample-thesis-project
-This repository is an example for the structure and content that a CLTL thesis project may have. 
+# sample-project
+This repository is an example for the structure and content that a project may have. 
 
 # Overview
 This repository assumes a Python project, with an Open License (MIT style). If any of these aspects are different from your project please make sure to change those accordingly.
-Please feel free to clone/fork this repository and use it as a template for your thesis.
 
 # Project structure
 
 ```
-thesis-project
+sample-project
 └───data
 │       │   sample_data.csv 
-└───results
+└───reports
 │       │   sample_results.png 
 └───src
 │   └───utils
@@ -20,15 +19,15 @@ thesis-project
 │   .gitignore
 │   LICENSE
 │   README.md
-│   requirements.tx
+│   requirements.txt
 ```
 
 # To Do
 Once you start, please go through the following steps to tailor this template to your project
 
-## Thesis report
+## Project report
 You may decide to upload your report here directly, or to simply add a reference to where the report is hosted (e.g. Overleaf)
-- [ ] Add a reference to the thesis report
+- [ ] Add a reference to the project report
 
 ## Data 
 To ensure reproducibility, Yu need to provide the data your project uses.
